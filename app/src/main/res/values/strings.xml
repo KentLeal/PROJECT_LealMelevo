@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WASTE INC.</string>
+    <string name="save_the_world_with_this_simple_step">Save the world with this simple step.</string>
+    <string name="biodegradable">Biodegradable</string>
+    <string name="non_biodegradable">Non-Biodegradable</string>
+    <string name="creators">Creators</string>
+    <string name="recyclable">Recyclable</string>
+    <string name="todo">TODO</string>
+</resources>
